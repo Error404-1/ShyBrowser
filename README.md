@@ -1,5 +1,5 @@
 # ShyBrowser
-I created a web browser using LuaRT and Webview for LuaRT
+I created a web browser with LuaRT
 
 You may need to install LuaRT to run Shy Browser
 
